@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 852666167@qq.com
 description: "Welcome to my world!"
 keyword: "博客,杨顾昂,BLOG,PHP"
-url: "http://www.qingsiy.com"          # your host, for absolute URL
+url: "http://www.qingsi.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
